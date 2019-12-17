@@ -1,4 +1,5 @@
 import React from 'react';
+import './App.css';
 
 const App: React.FC = () => {
   return (
@@ -18,6 +19,6 @@ const App: React.FC = () => {
       </header>
     </div>
   );
-}
+};
 
 export default App;
